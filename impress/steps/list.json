@@ -238,35 +238,7 @@
         }
     },
     {
-        "uri": "plainrotate-180.html",
-        "id": "plainrotate-180",
-        "class": "step sealed",
-        "data": {
-            "x": 28000,
-            "y": 0,
-            "z": 0,
-            "scale": 2,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 0
-        }
-    },
-    {
-        "uri": "plainrotatex-180.html",
-        "id": "plainrotatex-180",
-        "class": "step sealed",
-        "data": {
-            "x": 28000,
-            "y": 0,
-            "z": 0,
-            "scale": 2,
-            "rotate-x": -180,
-            "rotate-y": 0,
-            "rotate-z": 0
-        }
-    },
-    {
-        "uri": "plainrotate180.html",
+        "uri": "plainrotatey180start.html",
         "id": "plainrotatey180start",
         "class": "step sealed",
         "data": {
@@ -294,35 +266,7 @@
         }
     },
     {
-        "uri": "plainrotate-180.html",
-        "id": "plainrotatey-180start",
-        "class": "step sealed",
-        "data": {
-            "x": 36000,
-            "y": 0,
-            "z": 0,
-            "scale": 2,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 0
-        }
-    },
-    {
-        "uri": "plainrotatey-180.html",
-        "id": "plainrotatey-180",
-        "class": "step sealed",
-        "data": {
-            "x": 36000,
-            "y": 0,
-            "z": 0,
-            "scale": 2,
-            "rotate-x": 0,
-            "rotate-y": -180,
-            "rotate-z": 0
-        }
-    },
-    {
-        "uri": "plainrotate180.html",
+        "uri": "plainrotatez180start.html",
         "id": "plainrotatez180start",
         "class": "step sealed",
         "data": {
@@ -347,34 +291,6 @@
             "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 180
-        }
-    },
-    {
-        "uri": "plainrotate-180.html",
-        "id": "plainrotatez-180start",
-        "class": "step sealed",
-        "data": {
-            "x": 44000,
-            "y": 0,
-            "z": 0,
-            "scale": 2,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 0
-        }
-    },
-    {
-        "uri": "plainrotatez-180.html",
-        "id": "plainrotatez-180",
-        "class": "step sealed",
-        "data": {
-            "x": 44000,
-            "y": 0,
-            "z": 0,
-            "scale": 2,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": -180
         }
     },
     {
@@ -434,8 +350,8 @@
         }
     },
     {
-        "uri": "diagonalrotate.html",
-        "id": "diagonalrotate",
+        "uri": "diagonalrotatexystart.html",
+        "id": "diagonalrotatexystart",
         "class": "step",
         "data": {
             "x": 64000,
@@ -462,7 +378,7 @@
         }
     },
     {
-        "uri": "diagonalrotate.html",
+        "uri": "diagonalrotatexzstart.html",
         "id": "diagonalrotatexzstart",
         "class": "step",
         "data": {
@@ -490,7 +406,7 @@
         }
     },
     {
-        "uri": "diagonalrotate.html",
+        "uri": "diagonalrotateyzstart.html",
         "id": "diagonalrotateyzstart",
         "class": "step",
         "data": {
@@ -532,8 +448,8 @@
         }
     },
     {
-        "uri": "rotatex45end.html",
-        "id": "rotatex45end",
+        "uri": "rotatex45effect.html",
+        "id": "rotatex45effect",
         "class": "step rotate45",
         "data": {
             "x": 76000,
@@ -683,6 +599,34 @@
             "rotate-x": 0,
             "rotate-y": 45,
             "rotate-z": 45
+        }
+    },
+    {
+        "uri": "imagination.html",
+        "id": "imagination",
+        "class": "step fade",
+        "data": {
+            "x": 100000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "thanks.html",
+        "id": "thanks",
+        "class": "step fade",
+        "data": {
+            "x": 100000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
         }
     }
 ]

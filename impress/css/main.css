@@ -14,7 +14,10 @@
     font-weight: bold;
 }
 
-/* fade out inactive slides */
+.step:not(.active) {
+    opacity: 0.1;
+}
+
 .sealed:not(.active) {
     opacity: 0;
 }
@@ -24,4 +27,11 @@
 
 .rotate45:not(.active) {
     opacity: 0.1;
+}
+
+.fade:not(.active) {
+    opacity: 0.02;
+}
+.fade:(.active) {
+    opacity: 0.98;
 }
