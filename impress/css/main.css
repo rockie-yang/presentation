@@ -21,3 +21,7 @@
 .sealed:(.active) {
     opacity: 1;
 }
+
+.rotate45:not(.active) {
+    opacity: 0.1;
+}
