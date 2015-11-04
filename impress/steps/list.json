@@ -154,13 +154,13 @@
         }
     },
     {
-        "uri": "plainrotate180.html",
-        "id": "plainrotate180",
+        "uri": "plainrotate-90.html",
+        "id": "plainrotate-90",
         "class": "step",
         "data": {
-            "x": 16000,
-            "y": 4000,
-            "z": -8000,
+            "x": 20000,
+            "y": 0,
+            "z": 0,
             "scale": 2,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -168,45 +168,213 @@
         }
     },
     {
-        "uri": "plainrotatex90.html",
-        "id": "plainrotatex90",
+        "uri": "plainrotatex-90.html",
+        "id": "plainrotatex-90",
         "class": "step",
         "data": {
-            "x": 16000,
-            "y": 4000,
-            "z": -8000,
+            "x": 20000,
+            "y": 0,
+            "z": 0,
             "scale": 2,
-            "rotate-x": 90,
+            "rotate-x": -90,
             "rotate-y": 0,
             "rotate-z": 0
         }
     },
     {
-        "uri": "plainrotatey90.html",
-        "id": "plainrotatey90",
+        "uri": "plainrotatey-90.html",
+        "id": "plainrotatey-90",
         "class": "step",
         "data": {
-            "x": 16000,
-            "y": 4000,
-            "z": -8000,
+            "x": 20000,
+            "y": 0,
+            "z": 0,
             "scale": 2,
-            "rotate-x": 90,
-            "rotate-y": 90,
+            "rotate-x": 0,
+            "rotate-y": -90,
             "rotate-z": 0
         }
     },
     {
-        "uri": "plainrotatez90.html",
-        "id": "plainrotatez90",
+        "uri": "plainrotatez-90.html",
+        "id": "plainrotatez-90",
         "class": "step",
         "data": {
-            "x": 16000,
-            "y": 4000,
-            "z": -8000,
+            "x": 20000,
+            "y": 0,
+            "z": 0,
             "scale": 2,
-            "rotate-x": 90,
-            "rotate-y": 90,
-            "rotate-z": 90
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "plainrotate180.html",
+        "id": "plainrotate180",
+        "class": "step sealed",
+        "data": {
+            "x": 24000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotatex180.html",
+        "id": "plainrotatex180",
+        "class": "step sealed",
+        "data": {
+            "x": 24000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 180,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotate-180.html",
+        "id": "plainrotate-180",
+        "class": "step sealed",
+        "data": {
+            "x": 28000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotatex-180.html",
+        "id": "plainrotatex-180",
+        "class": "step sealed",
+        "data": {
+            "x": 28000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": -180,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotate180.html",
+        "id": "plainrotatey180start",
+        "class": "step sealed",
+        "data": {
+            "x": 32000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotatey180.html",
+        "id": "plainrotatey180",
+        "class": "step sealed",
+        "data": {
+            "x": 32000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 180,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotate-180.html",
+        "id": "plainrotatey-180start",
+        "class": "step sealed",
+        "data": {
+            "x": 36000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotatey-180.html",
+        "id": "plainrotatey-180",
+        "class": "step sealed",
+        "data": {
+            "x": 36000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": -180,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotate180.html",
+        "id": "plainrotatez180start",
+        "class": "step sealed",
+        "data": {
+            "x": 40000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotatez180.html",
+        "id": "plainrotatez180",
+        "class": "step sealed",
+        "data": {
+            "x": 40000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "plainrotate-180.html",
+        "id": "plainrotatez-180start",
+        "class": "step sealed",
+        "data": {
+            "x": 44000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plainrotatez-180.html",
+        "id": "plainrotatez-180",
+        "class": "step sealed",
+        "data": {
+            "x": 44000,
+            "y": 0,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -180
         }
     },
     {

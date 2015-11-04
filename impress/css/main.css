@@ -13,3 +13,11 @@
     font-size: 78px;
     font-weight: bold;
 }
+
+/* fade out inactive slides */
+.sealed:not(.active) {
+    opacity: 0;
+}
+.sealed:(.active) {
+    opacity: 1;
+}
