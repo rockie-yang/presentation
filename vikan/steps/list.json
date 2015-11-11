@@ -14,16 +14,30 @@
         }
     },
     {
+        "uri": "whybackground.html",
+        "id": "one-more-thing",
+        "class": "step",
+        "data": {
+            "x": 3300,
+            "y": -700,
+            "z": 0,
+            "scale": 8,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
         "uri": "why.html",
-        "id": "why",
+        "id": "its-in-3d",
         "class": "step",
         "data": {
             "x": 4000,
             "y": 0,
-            "z": 0,
+            "z": -100,
             "scale": 4,
-            "rotate-x": 0,
-            "rotate-y": 0,
+            "rotate-x": -40,
+            "rotate-y": 10,
             "rotate-z": 0
         }
     },
