@@ -38,6 +38,7 @@ div#notes {
 
 div#notes p {
     margin-top: 0;
+    font-size: larger;
 }
 
 iframe#slideView {

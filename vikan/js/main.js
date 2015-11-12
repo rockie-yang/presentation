@@ -54,7 +54,7 @@ var publishQuestion = function(options) {
     });
 }
 
-var updateGraph = function(votes, options) {
+var updateGraph = function(votes, options, totalpolls) {
     var highestVote = 0;
     for (var i in votes) {
         if (votes[i] > highestVote) {
@@ -62,7 +62,8 @@ var updateGraph = function(votes, options) {
         }
     }
 
-    var rate = 400 / highestVote
+    var rate = 400 / highestVote;
+    // d3.select('#totalpolls').text(totalpolls);
     d3.select('#poll-result').selectAll("div")
         .data(votes).enter().append("div").attr("class", "bar").style("height", 0)
         .transition().duration(3000)
@@ -91,6 +92,6 @@ var fetchResult = function(options) {
         }
 
         console.log(votes);
-        updateGraph(votes, options);
+        updateGraph(votes, options, data.length);
     })
 }
