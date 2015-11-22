@@ -628,5 +628,33 @@
             "rotate-y": 0,
             "rotate-z": 0
         }
+    },
+    {
+        "uri": "onemorething.html",
+        "id": "onemorething",
+        "class": "step",
+        "data": {
+            "x": 104000,
+            "y": -700,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "colorfulmotion.html",
+        "id": "colorfulmotion",
+        "class": "step in-3d",
+        "data": {
+            "x": 104000,
+            "y": -900,
+            "z": -100,
+            "scale": 1,
+            "rotate-x": -40,
+            "rotate-y": 10,
+            "rotate-z": 0
+        }
     }
 ]
