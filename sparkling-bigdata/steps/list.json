@@ -98,23 +98,23 @@
         }
     },
     {
-        "uri": "bigdata-solution.html",
-        "id": "bigdata-solution",
-        "class": "step bulletin",
+        "uri": "google-papers.html",
+        "id": "google-papers",
+        "class": "step",
         "data": {
-            "x": 3200,
+            "x": 3000,
             "y": 1400,
             "z": 0,
             "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 0
+            "rotate-x": 90,
+            "rotate-y": 90,
+            "rotate-z": 90
         }
     },
     {
-        "uri": "distribute-storage.html",
-        "id": "distribute-storage",
-        "class": "step",
+        "uri": "bigdata-solution.html",
+        "id": "bigdata-solution",
+        "class": "step bulletin",
         "data": {
             "x": 4400,
             "y": 1400,
@@ -126,17 +126,59 @@
         }
     },
     {
+        "uri": "distribute-storage.html",
+        "id": "distribute-storage",
+        "class": "step",
+        "data": {
+            "x": 4400,
+            "y": 2400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
         "uri": "distribute-processing.html",
         "id": "distribute-processing",
         "class": "step",
         "data": {
             "x": 4365,
-            "y": 1410,
+            "y": 2410,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "mapreduce-flow.html",
+        "id": "mapreduce-flow",
+        "class": "step",
+        "data": {
+            "x": 5300,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 90
+        }
+    },
+    {
+        "uri": "spark-flow.html",
+        "id": "spark-flow",
+        "class": "step",
+        "data": {
+            "x": 5300,
+            "y": 2400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
         }
     },
     {
