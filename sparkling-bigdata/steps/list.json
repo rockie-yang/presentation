@@ -135,7 +135,7 @@
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 90,
+            "rotate-y": 0,
             "rotate-z": 0
         }
     },
@@ -149,7 +149,7 @@
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 90,
+            "rotate-y": 0,
             "rotate-z": 0
         }
     },
@@ -173,12 +173,12 @@
         "class": "step",
         "data": {
             "x": 5300,
-            "y": 2400,
+            "y": 4400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 90,
-            "rotate-z": 0
+            "rotate-y": 0,
+            "rotate-z": 90
         }
     },
     {
@@ -312,7 +312,7 @@
         "id": "sqoop-mysql",
         "class": "step",
         "data": {
-            "x": 12400,
+            "x": 22400,
             "y": 1400,
             "z": 0,
             "scale": 1,
@@ -326,7 +326,7 @@
         "id": "import-csv",
         "class": "step",
         "data": {
-            "x": 13200,
+            "x": 23200,
             "y": 1400,
             "z": 0,
             "scale": 1,
@@ -336,12 +336,26 @@
         }
     },
     {
-        "uri": "interactive-with-sql.html",
-        "id": "interactive-with-sql",
+        "uri": "explore-with-spark-shell.html",
+        "id": "explore-with-spark-shell",
         "class": "step",
         "data": {
-            "x": 14000,
-            "y": 1400,
+            "x": 25000,
+            "y": 5400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "zeppelin-analyze.html",
+        "id": "zeppelin-analyze",
+        "class": "step",
+        "data": {
+            "x": 25600,
+            "y": 6400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -350,12 +364,54 @@
         }
     },
     {
-        "uri": "more-insight-tobe-found.html",
-        "id": "more-insight-tobe-found",
+        "uri": "zeppelin-visualize.html",
+        "id": "zeppelin-visualize",
         "class": "step",
         "data": {
-            "x": 14800,
-            "y": 1400,
+            "x": 26600,
+            "y": 6400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "zeppelin-manipulate.html",
+        "id": "zeppelin-manipulate",
+        "class": "step",
+        "data": {
+            "x": 27600,
+            "y": 6400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "debug-spark.html",
+        "id": "debug-spark",
+        "class": "step",
+        "data": {
+            "x": 28600,
+            "y": 6400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "publish-result.html",
+        "id": "publish-result",
+        "class": "step",
+        "data": {
+            "x": 29600,
+            "y": 6400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,

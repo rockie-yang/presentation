@@ -180,18 +180,31 @@
     transform: scale(2);
 }
 
+.color1 {
+    color: #ff7f0e;
+}
+
 .colorful:nth-of-type(7n+1) {
     color: #ff7f0e;
+}
+
+.color2 {
+    color: #1f77b4;
 }
 
 .colorful:nth-of-type(7n+2) {
     color: #1f77b4;
 }
 
+.color3 {
+    color: #2ca02c;
+}
 .colorful:nth-of-type(7n+3) {
     color: #2ca02c;
 }
-
+.color4 {
+    color: #9467bd;
+}
 .colorful:nth-of-type(7n+4) {
     color: #9467bd;
 }
