@@ -220,3 +220,39 @@
 .thanks {
     font-size: 20px;
 }
+
+.circle-top-left {
+    position: absolute;
+    left: 0px;
+    top: -220px;
+}
+
+.circle-top-right {
+    position: absolute;
+    left: 265px;
+    top: -230px;
+}
+
+.circle-bottom-right {
+    position: absolute;
+    left: 295px;
+    top: 35px;
+}
+
+.circle-bottom-left {
+    position: absolute;
+    left: 10px;
+    top: 65px;
+}
+
+.circle-center {
+    position: absolute;
+    left: 140px;
+    top: -90px;
+}
+
+.circle-left-drop {
+    position: absolute;
+    left: -80px;
+    top: 200px;
+}

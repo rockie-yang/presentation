@@ -74,8 +74,8 @@
         "id": "flow-analyze",
         "class": "step",
         "data": {
-            "x": 4065,
-            "y": 1380,
+            "x": 3800,
+            "y": 1400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -88,8 +88,8 @@
         "id": "flow-visualize",
         "class": "step",
         "data": {
-            "x": 4085,
-            "y": 1645,
+            "x": 3800,
+            "y": 1400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -103,7 +103,7 @@
         "class": "step",
         "data": {
             "x": 3800,
-            "y": 1660,
+            "y": 1400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -116,8 +116,8 @@
         "id": "flow-water-drop",
         "class": "step",
         "data": {
-            "x": 3685,
-            "y": 1800,
+            "x": 3800,
+            "y": 1400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -130,8 +130,8 @@
         "id": "flow-technology",
         "class": "step",
         "data": {
-            "x": 3935,
-            "y": 1520,
+            "x": 3800,
+            "y": 1400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
