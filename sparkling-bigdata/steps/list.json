@@ -56,6 +56,90 @@
         }
     },
     {
+        "uri": "flow-ingest.html",
+        "id": "flow-ingest",
+        "class": "step",
+        "data": {
+            "x": 3800,
+            "y": 1400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "flow-analyze.html",
+        "id": "flow-analyze",
+        "class": "step",
+        "data": {
+            "x": 4065,
+            "y": 1380,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "flow-visualize.html",
+        "id": "flow-visualize",
+        "class": "step",
+        "data": {
+            "x": 4085,
+            "y": 1645,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "flow-insight.html",
+        "id": "flow-insight",
+        "class": "step",
+        "data": {
+            "x": 3800,
+            "y": 1660,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "flow-water-drop.html",
+        "id": "flow-water-drop",
+        "class": "step",
+        "data": {
+            "x": 3685,
+            "y": 1800,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "flow-technology.html",
+        "id": "flow-technology",
+        "class": "step",
+        "data": {
+            "x": 3935,
+            "y": 1520,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
         "uri": "bigdata-how.html",
         "id": "bigdata-how",
         "class": "step bulletin",
@@ -144,7 +228,7 @@
         "id": "distribute-processing",
         "class": "step",
         "data": {
-            "x": 4365,
+            "x": 4405,
             "y": 2410,
             "z": 0,
             "scale": 1,
@@ -238,12 +322,12 @@
         }
     },
     {
-        "uri": "lets-action.html",
-        "id": "lets-action",
+        "uri": "transformation-and-actions.html",
+        "id": "transformation-and-actions",
         "class": "step",
         "data": {
             "x": 8400,
-            "y": 3400,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -252,12 +336,12 @@
         }
     },
     {
-        "uri": "deployment.html",
-        "id": "deployment",
+        "uri": "lets-action.html",
+        "id": "lets-action",
         "class": "step",
         "data": {
-            "x": 9200,
-            "y": 1400,
+            "x": 8400,
+            "y": 3400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -280,11 +364,11 @@
         }
     },
     {
-        "uri": "bigdata-flow.html",
-        "id": "bigdata-flow",
+        "uri": "deployment.html",
+        "id": "deployment",
         "class": "step",
         "data": {
-            "x": 10800,
+            "x": 9200,
             "y": 1400,
             "z": 0,
             "scale": 1,
