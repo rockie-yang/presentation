@@ -76,6 +76,10 @@
     z-index: -1;
 }
 
+.step:not(.active) {
+    opacity: 0.05;
+}
+
 .present .transition-fast {
     -webkit-transition: 1s;
     -moz-transition: 1s;

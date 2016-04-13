@@ -18,7 +18,7 @@
         "id": "bigdata",
         "class": "step bulletin",
         "data": {
-            "x": 3000,
+            "x": 1500,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -32,13 +32,13 @@
         "id": "bigdata-buzzword",
         "class": "step bulletin",
         "data": {
-            "x": 2800,
-            "y": 0,
+            "x": 1500,
+            "y": -1500,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 180
         }
     },
     {
@@ -46,13 +46,13 @@
         "id": "bigdata-definition",
         "class": "step bulletin",
         "data": {
-            "x": 2600,
-            "y": 0,
+            "x": 1500,
+            "y": -1650,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 180
         }
     },
     {
@@ -144,7 +144,7 @@
         "id": "bigdata-how",
         "class": "step bulletin",
         "data": {
-            "x": 3000,
+            "x": 4800,
             "y": 1000,
             "z": 0,
             "scale": 1,
@@ -158,7 +158,7 @@
         "id": "bigdata-distribute",
         "class": "step bulletin",
         "data": {
-            "x": 3000,
+            "x": 4800,
             "y": 1200,
             "z": 0,
             "scale": 1,
@@ -172,7 +172,7 @@
         "id": "bigdata-distribute-everything",
         "class": "step bulletin",
         "data": {
-            "x": 3000,
+            "x": 4800,
             "y": 1400,
             "z": 0,
             "scale": 1,
@@ -186,7 +186,7 @@
         "id": "google-papers",
         "class": "step",
         "data": {
-            "x": 3000,
+            "x": 5800,
             "y": 1400,
             "z": 0,
             "scale": 1,
@@ -200,7 +200,7 @@
         "id": "bigdata-solution",
         "class": "step bulletin",
         "data": {
-            "x": 4400,
+            "x": 5800,
             "y": 1400,
             "z": 0,
             "scale": 1,
@@ -214,8 +214,8 @@
         "id": "distribute-storage",
         "class": "step",
         "data": {
-            "x": 4400,
-            "y": 2400,
+            "x": 6800,
+            "y": 1400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -228,8 +228,8 @@
         "id": "distribute-processing",
         "class": "step",
         "data": {
-            "x": 4405,
-            "y": 2410,
+            "x": 6805,
+            "y": 1410,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -242,7 +242,7 @@
         "id": "mapreduce-flow",
         "class": "step",
         "data": {
-            "x": 5300,
+            "x": 7800,
             "y": 2400,
             "z": 0,
             "scale": 1,
@@ -256,12 +256,12 @@
         "id": "spark-flow",
         "class": "step",
         "data": {
-            "x": 5300,
-            "y": 4400,
+            "x": 7800,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
+            "rotate-y": 90,
             "rotate-z": 90
         }
     },
@@ -270,8 +270,8 @@
         "id": "load-source",
         "class": "step",
         "data": {
-            "x": 6800,
-            "y": 1400,
+            "x": 9000,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -284,8 +284,8 @@
         "id": "map",
         "class": "step",
         "data": {
-            "x": 7600,
-            "y": 1400,
+            "x": 10500,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -298,8 +298,8 @@
         "id": "reduce",
         "class": "step",
         "data": {
-            "x": 8400,
-            "y": 1400,
+            "x": 12000,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -312,7 +312,7 @@
         "id": "nothing-happen-yet",
         "class": "step",
         "data": {
-            "x": 8400,
+            "x": 13500,
             "y": 2400,
             "z": 0,
             "scale": 1,
@@ -326,7 +326,7 @@
         "id": "transformation-and-actions",
         "class": "step",
         "data": {
-            "x": 8400,
+            "x": 13500,
             "y": 2400,
             "z": 0,
             "scale": 1,
@@ -340,7 +340,7 @@
         "id": "lets-action",
         "class": "step",
         "data": {
-            "x": 8400,
+            "x": 15000,
             "y": 3400,
             "z": 0,
             "scale": 1,
@@ -354,8 +354,8 @@
         "id": "job-graph",
         "class": "step",
         "data": {
-            "x": 10000,
-            "y": 1400,
+            "x": 16500,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -368,10 +368,10 @@
         "id": "deployment",
         "class": "step",
         "data": {
-            "x": 9200,
-            "y": 1400,
+            "x": 18000,
+            "y": 2400,
             "z": 0,
-            "scale": 1,
+            "scale": 4,
             "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 90
@@ -382,8 +382,8 @@
         "id": "sqoop-data",
         "class": "step",
         "data": {
-            "x": 11600,
-            "y": 1400,
+            "x": 20000,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
@@ -396,12 +396,12 @@
         "id": "sqoop-mysql",
         "class": "step",
         "data": {
-            "x": 22400,
-            "y": 1400,
+            "x": 20000,
+            "y": 2400,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
+            "rotate-y": 90,
             "rotate-z": 90
         }
     },
