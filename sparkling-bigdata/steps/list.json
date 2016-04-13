@@ -502,5 +502,19 @@
             "rotate-y": 0,
             "rotate-z": 90
         }
+    },
+    {
+        "uri": "thanks.html",
+        "id": "thanks",
+        "class": "step",
+        "data": {
+            "x": 30600,
+            "y": 6400,
+            "z": 20000,
+            "scale": 20,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
     }
 ]
