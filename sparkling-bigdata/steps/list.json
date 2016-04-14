@@ -308,9 +308,9 @@
         }
     },
     {
-        "uri": "nothing-happen-yet.html",
-        "id": "nothing-happen-yet",
-        "class": "step",
+        "uri": "nothing-happened.html",
+        "id": "nothing-happened",
+        "class": "step in-3d",
         "data": {
             "x": 13500,
             "y": 2400,
@@ -319,6 +319,20 @@
             "rotate-x": 0,
             "rotate-y": 90,
             "rotate-z": 0
+        }
+    },    
+    {
+        "uri": "nothing-happen-yet.html",
+        "id": "nothing-happen-yet",
+        "class": "step in-3d",
+        "data": {
+            "x": 13500,
+            "y": 2400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 90
         }
     },
     {

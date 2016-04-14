@@ -68,6 +68,30 @@
     transition: 4.5s;
 }
 
+.present .transition-fast {
+    -webkit-transition: 1s;
+    -moz-transition:    1s;
+    -ms-transition:     1s;
+    -o-transition:      1s;
+    transition:         1s;
+}
+
+.present .scaling-bigger {
+    -webkit-transform: scale(6);
+    -moz-transform:    scale(6);
+    -ms-transform:     scale(6);
+    -o-transform:      scale(6);
+    transform:         scale(6);
+}
+
+.present .delay-long {
+    -webkit-transition-delay: 5s;
+    -moz-transition-delay:    5s;
+    -ms-transition-delay:     5s;
+    -o-transition-delay:      5s;
+    transition-delay:         5s;
+}
+
 .step.present {
     z-index: 0;
 }
