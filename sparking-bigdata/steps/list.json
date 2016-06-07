@@ -320,7 +320,7 @@
             "rotate-y": 90,
             "rotate-z": 0
         }
-    },    
+    },
     {
         "uri": "nothing-happen-yet.html",
         "id": "nothing-happen-yet",
@@ -434,6 +434,76 @@
         }
     },
     {
+        "uri": "huge-xml.html",
+        "id": "huge-xml",
+        "class": "step",
+        "data": {
+            "x": 23200,
+            "y": 2400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "huge-xml-solution.html",
+        "id": "huge-xml-solution",
+        "class": "step",
+        "data": {
+            "x": 23600,
+            "y": 2400,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "avoid-recrawl.html",
+        "id": "avoid-recrawl",
+        "class": "step",
+        "data": {
+            "x": 32600,
+            "y": 6400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "avoid-recrawl-solution.html",
+        "id": "avoid-recrawl-solution",
+        "class": "step",
+        "data": {
+            "x": 32300,
+            "y": 6400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "parquet.html",
+        "id": "parquet",
+        "class": "step",
+        "data": {
+            "x": 31600,
+            "y": 7400,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "explore-with-spark-shell.html",
         "id": "explore-with-spark-shell",
         "class": "step",
@@ -484,6 +554,20 @@
             "y": 6400,
             "z": 0,
             "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "zeppelin-highcharts.html",
+        "id": "zeppelin-highcharts",
+        "class": "step",
+        "data": {
+            "x": 32600,
+            "y": 7400,
+            "z": 0,
+            "scale": 6,
             "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 90
