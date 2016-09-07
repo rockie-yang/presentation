@@ -251,6 +251,21 @@
             "rotate-z": 90
         }
     },
+    
+    {
+        "uri": "working.html",
+        "id": "working",
+        "class": "step",
+        "data": {
+            "x": 63000,
+            "y": 0,
+            "z": 20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
     {
         "uri": "thanks.html",
         "id": "thanks",

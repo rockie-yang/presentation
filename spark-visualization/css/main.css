@@ -233,6 +233,11 @@
 .color4 {
     color: #9467bd;
 }
+
+.color5 {
+    color: #d62728;
+}
+
 .colorful:nth-of-type(7n+4) {
     color: #9467bd;
 }
