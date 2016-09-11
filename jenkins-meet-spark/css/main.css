@@ -304,3 +304,9 @@
 .indent3 {
     text-indent: 120px;
 }
+
+
+.iframe-step {
+    width: 1400px;
+    padding: 40px;
+}

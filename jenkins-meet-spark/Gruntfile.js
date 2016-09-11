@@ -8,6 +8,8 @@ var mountFolder = function (connect, dir) {
 };
 
 module.exports = function (grunt) {
+    grunt.loadNpmTasks('grunt-contrib-connect');
+
     // load all grunt tasks
     require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
 
@@ -29,9 +31,12 @@ module.exports = function (grunt) {
         },
         connect: {
             options: {
-                port: 9000,
+                port: 8443,
+                protocol: 'https',
                 // change this to '0.0.0.0' to access the server from outside
-                hostname: 'localhost'
+                hostname: 'localhost',
+                key: grunt.file.read('domain.key').toString(),
+                cert: grunt.file.read('domain.crt').toString(),
             },
             livereload: {
                 options: {
