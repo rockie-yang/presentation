@@ -28,8 +28,8 @@
         }
     },
     {
-        "uri": "continues-integration-2.html",
-        "id": "continues-integration-2",
+        "uri": "what-is-continues-integration-2.html",
+        "id": "what-is-continues-integration-2",
         "class": "step",
         "data": {
             "x": 3000,
@@ -42,8 +42,8 @@
         }
     },
     {
-        "uri": "continues-deployment.html",
-        "id": "continues-deployment",
+        "uri": "what-is-continues-deployment.html",
+        "id": "what-is-continues-deployment",
         "class": "step",
         "data": {
             "x": 9000,

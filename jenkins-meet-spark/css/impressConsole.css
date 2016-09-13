@@ -4,10 +4,10 @@ html {
 
 body {
     padding: 0;
-    margin: 20px;
+    margin: 5px;
     font-family: verdana, arial, sans-serif;
     font-size: 26px;
-    height: 92%;
+    height: 99%;
 }
 
 div#console {
@@ -17,7 +17,7 @@ div#console {
 
 div#views {
     float: left;
-    width: 16em;
+    width: 26em;
     margin-right: 1em;
 }
 
@@ -41,8 +41,8 @@ div#notes p {
 }
 
 iframe#slideView {
-    width: 16em;
-    height: 12em;
+    width: 26em;
+    height: 22em;
 }
 
 iframe#preView {
