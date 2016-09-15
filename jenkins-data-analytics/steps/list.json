@@ -1,0 +1,156 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "zeppelin-highcharts.html",
+        "id": "zeppelin-highcharts",
+        "class": "step",
+        "data": {
+            "x": 82000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "my-zeppelin.html",
+        "id": "my-zeppelin",
+        "class": "step",
+        "data": {
+            "x": 82000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "my-zeppelin-init.html",
+        "id": "my-zeppelin-init",
+        "class": "step",
+        "data": {
+            "x": 82000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "angular-testcase.html",
+        "id": "angular-testcase",
+        "class": "step iframe-step",
+        "data": {
+            "x": 86000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "apacheci.html",
+        "id": "apacheci",
+        "class": "step iframe-step",
+        "data": {
+            "x": 86000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "apache-test-report.html",
+        "id": "apache-test-report",
+        "class": "step iframe-step",
+        "data": {
+            "x": 90000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "apache-testcase.html",
+        "id": "apache-testcase",
+        "class": "step iframe-step",
+        "data": {
+            "x": 94000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "pick-right-testcase.html",
+        "id": "pick-right-testcase",
+        "class": "step",
+        "data": {
+            "x": 98000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "qa.html",
+        "id": "qa2",
+        "class": "step",
+        "data": {
+            "x": 98000,
+            "y": 0,
+            "z": 10000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thanks.html",
+        "id": "thanks",
+        "class": "step",
+        "data": {
+            "x": 98000,
+            "y": 0,
+            "z": 20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]
