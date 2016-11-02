@@ -168,8 +168,8 @@
         }
     },
     {
-        "uri": "basicline.html",
-        "id": "basicline",
+        "uri": "highchartsBasicline.html",
+        "id": "highchartsBasicline",
         "class": "step",
         "data": {
             "x": 30000,

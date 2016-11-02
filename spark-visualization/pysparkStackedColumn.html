@@ -22,11 +22,11 @@
 <body>
 <div class="container">
     <article class="markdown-body">
-        <h1>StackedColumn</h1>
+        <h1>Stacked Column for pyspark</h1>
 <pre><code class="python hljs">pythonDataFrame.createOrReplaceTempView('consumption')
 </code></pre><pre><code class="scala hljs">
 val chart = highcharts(
-  dataFrame
+  sqlContext.table("consumption")
     .seriesCol("name")
     .series("y" -> "consumption")).
   chart(Chart.column).
