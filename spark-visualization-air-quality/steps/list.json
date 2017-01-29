@@ -1,0 +1,114 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "spark.html",
+        "id": "spark",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "zeppelinbuiltincharts.html",
+        "id": "zeppelinbuiltincharts",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "highcharts.html",
+        "id": "highcharts",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 3000,
+            "z": 10000,
+            "scale": 4,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "bigdata.html",
+        "id": "bigdata",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "piechart.html",
+        "id": "piechart",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 3000,
+            "z": 20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "piechartcode.html",
+        "id": "piechartcode",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 3000,
+            "z": 20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thanks.html",
+        "id": "thanks",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]
