@@ -98,6 +98,48 @@
         }
     },
     {
+        "uri": "air-quality-aggregated.html",
+        "id": "aggregated-data",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": -3000,
+            "z": -20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "air-quality-raw.html",
+        "id": "raw-data",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": -6000,
+            "z": -40000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "sandbox.html",
+        "id": "sandbox",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 6000,
+            "z": 40000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "thanks.html",
         "id": "thanks",
         "class": "step",
