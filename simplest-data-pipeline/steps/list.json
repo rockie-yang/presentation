@@ -1,0 +1,366 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "thinkbig-consultant.html",
+        "id": "thinkbig-consultant",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thinkbig-opensource.html",
+        "id": "thinkbig-opensource",
+        "class": "step",
+        "data": {
+            "x": 3700,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thinkbig-expanding.html",
+        "id": "thinkbig-expanding",
+        "class": "step",
+        "data": {
+            "x": 3300,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "bigdata-flow.html",
+        "id": "bigdata-flow",
+        "class": "step",
+        "data": {
+            "x": 3300,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "storage.html",
+        "id": "storage",
+        "class": "step",
+        "data": {
+            "x": 7000,
+            "y": 6000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "storage-s3.html",
+        "id": "storage-s3",
+        "class": "step",
+        "data": {
+            "x": 10000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "storage-hdfs.html",
+        "id": "storage-hdfs",
+        "class": "step",
+        "data": {
+            "x": 10000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "file.html",
+        "id": "file",
+        "class": "step",
+        "data": {
+            "x": 10000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "storage-file-github.html",
+        "id": "storage-file-github",
+        "class": "step",
+        "data": {
+            "x": 10000,
+            "y": 500,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "ingest-get-the-data.html",
+        "id": "ingest-get-the-data",
+        "class": "step",
+        "data": {
+            "x": 14000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "ingest-kylo.html",
+        "id": "ingest-kylo",
+        "class": "step",
+        "data": {
+            "x": 14000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "ingest-air-quality-data.html",
+        "id": "ingest-air-quality-data",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "ingest-weather-data.html",
+        "id": "ingest-weather-data",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "ingest-weather-data-script.html",
+        "id": "ingest-weather-data-script",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "ingest-model-based-crawler.html",
+        "id": "ingest-model-based-crawler",
+        "class": "step",
+        "data": {
+            "x": 23000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "process-data.html",
+        "id": "process-data",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "spark.html",
+        "id": "spark",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "process-flow.html",
+        "id": "process-flow",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": 0,
+            "z": -20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "bigdata.html",
+        "id": "bigdata",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "piechart.html",
+        "id": "piechart",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 3000,
+            "z": 20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "piechartcode.html",
+        "id": "piechartcode",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 3000,
+            "z": 20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "air-quality-aggregated.html",
+        "id": "aggregated-data",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": -3000,
+            "z": -20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "air-quality-raw.html",
+        "id": "raw-data",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": -6000,
+            "z": -40000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "sandbox.html",
+        "id": "sandbox",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 6000,
+            "z": 40000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thanks.html",
+        "id": "thanks",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]
