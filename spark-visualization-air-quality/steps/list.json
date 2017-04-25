@@ -14,11 +14,123 @@
         }
     },
     {
+        "uri": "thinkbig-consultant.html",
+        "id": "thinkbig-consultant",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thinkbig-opensource.html",
+        "id": "thinkbig-opensource",
+        "class": "step",
+        "data": {
+            "x": 3700,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thinkbig-expanding.html",
+        "id": "thinkbig-expanding",
+        "class": "step",
+        "data": {
+            "x": 3300,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "agenda.html",
+        "id": "agenda",
+        "class": "step",
+        "data": {
+            "x": 7000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "why.html",
+        "id": "why",
+        "class": "step",
+        "data": {
+            "x": 7000,
+            "y": 0,
+            "z": 10000,
+            "scale": 5,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "bigdata-flow.html",
+        "id": "bigdata-flow",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "spark.html",
         "id": "spark",
         "class": "step",
         "data": {
-            "x": 3000,
+            "x": 15000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "bigdata.html",
+        "id": "bigdata",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "why-visualize-data.html",
+        "id": "why-visualize-data",
+        "class": "step",
+        "data": {
+            "x": 21000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -32,7 +144,7 @@
         "id": "zeppelinbuiltincharts",
         "class": "step",
         "data": {
-            "x": 3000,
+            "x": 24000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -46,21 +158,21 @@
         "id": "highcharts",
         "class": "step",
         "data": {
-            "x": 3000,
-            "y": 3000,
-            "z": 10000,
-            "scale": 4,
+            "x": 27000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
             "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
     },
     {
-        "uri": "bigdata.html",
-        "id": "bigdata",
+        "uri": "how-spark-highcharts-works.html",
+        "id": "how-spark-highcharts-works",
         "class": "step",
         "data": {
-            "x": 6000,
+            "x": 30000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -74,9 +186,9 @@
         "id": "piechart",
         "class": "step",
         "data": {
-            "x": 9000,
-            "y": 3000,
-            "z": 20000,
+            "x": 33000,
+            "y": 0,
+            "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -88,9 +200,9 @@
         "id": "piechartcode",
         "class": "step",
         "data": {
-            "x": 9000,
-            "y": 3000,
-            "z": 20000,
+            "x": 33000,
+            "y": 0,
+            "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -102,9 +214,9 @@
         "id": "aggregated-data",
         "class": "step",
         "data": {
-            "x": 15000,
-            "y": -3000,
-            "z": -20000,
+            "x": 36000,
+            "y": 0,
+            "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -116,9 +228,107 @@
         "id": "raw-data",
         "class": "step",
         "data": {
-            "x": 18000,
-            "y": -6000,
-            "z": -40000,
+            "x": 36000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "how-spark-highcharts-works-animation.html",
+        "id": "how-spark-highcharts-works-animation",
+        "class": "step",
+        "data": {
+            "x": 40000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "visualize-in-spark-shell.html",
+        "id": "visualize-in-spark-shell",
+        "class": "step",
+        "data": {
+            "x": 43000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "spark-shell.html",
+        "id": "spark-shell",
+        "class": "step",
+        "data": {
+            "x": 43000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "spark-shell-zeppelin-tutorial.html",
+        "id": "spark-shell-zeppelin-tutorial",
+        "class": "step",
+        "data": {
+            "x": 46000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "spark-shell-html.html",
+        "id": "spark-shell-html",
+        "class": "step",
+        "data": {
+            "x": 50000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "spark-shell-chart.html",
+        "id": "spark-shell-chart",
+        "class": "step",
+        "data": {
+            "x": 50000,
+            "y": 0,
+            "z": -160000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "demo.html",
+        "id": "demo",
+        "class": "step",
+        "data": {
+            "x": 53000,
+            "y": 0,
+            "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -130,9 +340,9 @@
         "id": "sandbox",
         "class": "step",
         "data": {
-            "x": 6000,
-            "y": 6000,
-            "z": 40000,
+            "x": 56000,
+            "y": 0,
+            "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -144,11 +354,11 @@
         "id": "thanks",
         "class": "step",
         "data": {
-            "x": 12000,
+            "x": 56000,
             "y": 0,
-            "z": 0,
+            "z": 90000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }

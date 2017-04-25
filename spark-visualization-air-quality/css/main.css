@@ -31,6 +31,10 @@
     opacity: 1;
 }
 
+.bulletin-not-hide:(.active) {
+    opacity: 1;
+}
+
 .sealed:not(.active) {
     opacity: 0;
 }
