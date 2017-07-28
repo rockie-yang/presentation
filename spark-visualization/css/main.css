@@ -238,6 +238,9 @@
     color: #d62728;
 }
 
+.color8 {
+    color: #7f7f7f;
+}
 .colorful:nth-of-type(7n+4) {
     color: #9467bd;
 }
@@ -288,4 +291,13 @@
     position: absolute;
     left: -80px;
     top: 200px;
+}
+
+.impress-on-title {
+    background-color: white;
+    color: #000;
+        -moz-transition: none;
+    -webkit-transition: none;
+    -o-transition: color 0 ease-in;
+    transition: none;  
 }

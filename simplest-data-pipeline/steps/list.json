@@ -336,6 +336,20 @@
         }
     },
     {
+        "uri": "bigdata-flow-share.html",
+        "id": "bigdata-flow-share",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": -6000,
+            "z": -40000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "sandbox.html",
         "id": "sandbox",
         "class": "step",

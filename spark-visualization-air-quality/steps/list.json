@@ -238,6 +238,20 @@
         }
     },
     {
+        "uri": "spark-deploy.html",
+        "id": "spark-deploy",
+        "class": "step",
+        "data": {
+            "x": 40000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "how-spark-highcharts-works-animation.html",
         "id": "how-spark-highcharts-works-animation",
         "class": "step",
