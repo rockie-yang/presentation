@@ -70,13 +70,153 @@
         }
     },
     {
+        "uri": "whatisbigdata.html",
+        "id": "whatisbigdata",
+        "class": "step",
+        "data": {
+            "x": 10000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "scaleup.html",
+        "id": "scaleup",
+        "class": "step",
+        "data": {
+            "x": 16000,
+            "y": 0,
+            "z": 180000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "scaleup2.html",
+        "id": "scaleup2",
+        "class": "step",
+        "data": {
+            "x": 16250,
+            "y": 0,
+            "z": 180000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "scaleup3.html",
+        "id": "scaleup3",
+        "class": "step",
+        "data": {
+            "x": 16600,
+            "y": 0,
+            "z": 180000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "scaleout.html",
+        "id": "scaleout",
+        "class": "step in-slide",
+        "data": {
+            "x": 17950,
+            "y": 0,
+            "z": 180000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "scaleout2.html",
+        "id": "scaleout2",
+        "class": "step in-slide",
+        "data": {
+            "x": 17950,
+            "y": -300,
+            "z": 180000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "scaleout3.html",
+        "id": "scaleout3",
+        "class": "step in-slide",
+        "data": {
+            "x": 17950,
+            "y": -600,
+            "z": 180000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "mapreduce-flow.html",
+        "id": "mapreduce",
+        "class": "step",
+        "data": {
+            "x": 16950,
+            "y": -600,
+            "z": 180000,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "spark-flow.html",
+        "id": "sparkflow",
+        "class": "step",
+        "data": {
+            "x": 16950,
+            "y": -3600,
+            "z": 180000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "spark.html",
+        "id": "spark",
+        "class": "step",
+        "data": {
+            "x": 20000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
         "uri": "why.html",
         "id": "why",
         "class": "step",
         "data": {
-            "x": 7000,
+            "x": 24000,
             "y": 0,
-            "z": 10000,
+            "z": 0,
             "scale": 5,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -88,35 +228,7 @@
         "id": "bigdata-flow",
         "class": "step",
         "data": {
-            "x": 15000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "spark.html",
-        "id": "spark",
-        "class": "step",
-        "data": {
-            "x": 15000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 90,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "bigdata.html",
-        "id": "bigdata",
-        "class": "step",
-        "data": {
-            "x": 18000,
+            "x": 27000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -130,7 +242,7 @@
         "id": "why-visualize-data",
         "class": "step",
         "data": {
-            "x": 21000,
+            "x": 30000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -140,11 +252,25 @@
         }
     },
     {
+        "uri": "bigdata.html",
+        "id": "bigdata",
+        "class": "step",
+        "data": {
+            "x": 30000,
+            "y": 0,
+            "z": 10000,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
         "uri": "zeppelinbuiltincharts.html",
         "id": "zeppelinbuiltincharts",
         "class": "step",
         "data": {
-            "x": 24000,
+            "x": 34000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -158,7 +284,7 @@
         "id": "highcharts",
         "class": "step",
         "data": {
-            "x": 27000,
+            "x": 37000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -172,7 +298,7 @@
         "id": "how-spark-highcharts-works",
         "class": "step",
         "data": {
-            "x": 30000,
+            "x": 40000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -184,9 +310,9 @@
     {
         "uri": "piechart.html",
         "id": "piechart",
-        "class": "step",
+        "class": "step in-slide",
         "data": {
-            "x": 33000,
+            "x": 43000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -198,9 +324,9 @@
     {
         "uri": "piechartcode.html",
         "id": "piechartcode",
-        "class": "step",
+        "class": "step in-slide",
         "data": {
-            "x": 33000,
+            "x": 43000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -214,7 +340,7 @@
         "id": "aggregated-data",
         "class": "step",
         "data": {
-            "x": 36000,
+            "x": 46000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -228,7 +354,7 @@
         "id": "raw-data",
         "class": "step",
         "data": {
-            "x": 36000,
+            "x": 46000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -242,7 +368,7 @@
         "id": "spark-deploy",
         "class": "step",
         "data": {
-            "x": 40000,
+            "x": 50000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -256,7 +382,7 @@
         "id": "how-spark-highcharts-works-animation",
         "class": "step",
         "data": {
-            "x": 40000,
+            "x": 50000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -270,7 +396,7 @@
         "id": "visualize-in-spark-shell",
         "class": "step",
         "data": {
-            "x": 43000,
+            "x": 53000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -284,7 +410,7 @@
         "id": "spark-shell",
         "class": "step",
         "data": {
-            "x": 43000,
+            "x": 53000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -298,7 +424,7 @@
         "id": "spark-shell-zeppelin-tutorial",
         "class": "step",
         "data": {
-            "x": 46000,
+            "x": 56000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -312,7 +438,7 @@
         "id": "spark-shell-html",
         "class": "step",
         "data": {
-            "x": 50000,
+            "x": 60000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -326,7 +452,7 @@
         "id": "spark-shell-chart",
         "class": "step",
         "data": {
-            "x": 50000,
+            "x": 60000,
             "y": 0,
             "z": -160000,
             "scale": 1,
@@ -340,7 +466,7 @@
         "id": "demo",
         "class": "step",
         "data": {
-            "x": 53000,
+            "x": 63000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -354,7 +480,7 @@
         "id": "sandbox",
         "class": "step",
         "data": {
-            "x": 56000,
+            "x": 66000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -368,7 +494,7 @@
         "id": "thanks",
         "class": "step",
         "data": {
-            "x": 56000,
+            "x": 66000,
             "y": 0,
             "z": 90000,
             "scale": 1,
