@@ -1,4 +1,4 @@
-FROM zeppelin-highchart:0.6.3
+FROM knockdata/zeppelin-highcharts:0.6.4
 
 RUN cd $ZEPPELIN_HOME \
   && rm -rf notebook \
