@@ -1,0 +1,20 @@
+<h2>Sqoop from MySQL</h2>
+<div class="code">
+    sqoop import-all-tables
+    <br> --connect jdbc:mysql://&lt;ip&gt;:&lt;port&gt;/&lt;db&gt;
+    <br> --username=&lt;name&gt; --password=&lt;password&gt;
+    <br> --as-parquetfile
+    <br> --hive-import
+    <br><br>
+</div>
+<div class="code">
+    hadoop fs -ls -h /user/hive/warehouse/&lt;table&gt;
+    <br> -rw-r--r-- 1 cloudera supergroup 7.4 M 2016-03-02 08:17 /user/hive/warehouse/&lt;table&gt;/
+    <br> 9c6ca06b-b4f8-494d-8edd-f5dd67a54a22.parquet
+    <br>
+</div>
+<div class="notes">
+    <prev>
+        for specified columns columns --table
+        <table&lt; --columns=<col1,col2&lt; warehouse-dir=/duac --hive-import --table=CP1 </prev>
+</div>
