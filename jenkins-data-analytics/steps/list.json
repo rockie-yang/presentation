@@ -56,34 +56,6 @@
         }
     },
     {
-        "uri": "angular-testcase.html",
-        "id": "angular-testcase",
-        "class": "step iframe-step",
-        "data": {
-            "x": 86000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "apacheci.html",
-        "id": "apacheci",
-        "class": "step iframe-step",
-        "data": {
-            "x": 86000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 90,
-            "rotate-z": 90
-        }
-    },
-    {
         "uri": "apache-test-report.html",
         "id": "apache-test-report",
         "class": "step iframe-step",

@@ -182,20 +182,6 @@
         }
     },
     {
-        "uri": "angularci.html",
-        "id": "angularci",
-        "class": "step iframe-step",
-        "data": {
-            "x": 21000,
-            "y": -5000,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
         "uri": "jenkins-root-json.html",
         "id": "jenkins-root-json",
         "class": "step",
